@@ -19,10 +19,10 @@ Before running this project, make sure you have the following installed:
 ## Installation
 
 Clone the repository to your local machine:
-
+```
 git clone https://github.com/eldoradomap/spreadsheet-blockchain-upload.git
 cd blockchain-data-uploader
-
+```
 ## Configuration
 
 Before running the scripts, ensure you have the following configuration in place:
